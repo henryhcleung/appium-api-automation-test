@@ -1,9 +1,6 @@
 # MyObservatory
 
-This repository is Hong Kong Obervatory automation test using behave.
-
 This repository is MyObservatory automation test using behave.
-
 
 ## Setup local environment
    1. ```brew install python```

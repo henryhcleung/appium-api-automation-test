@@ -11,12 +11,6 @@ def step_given_api_is_ready(context):
 @when('Send a get request to Hong Kong Observatory api "{url}"')
 def step_send_get_request(context, url):
 
-    # http_client = http.client.HTTPSConnection(url)
-    # http_client.request("GET", "")
-    # response = http_client.getresponse()
-    # context.response_code = response.code
-    # http_client = http.client.HTTPSConnection(url)
-    # http_client.request("GET", "")
     response = requests.get(url)
     context.response_code = response.status_code
 

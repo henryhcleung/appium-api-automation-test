@@ -13,3 +13,11 @@ This repository is MyObservatory automation test using behave.
    8. ```npm install wd```         # get appium client
    9. ```appium &```               # start appium
    10. ```node your-appium-test.js```
+
+## Run Task1
+   1. ```cd /Users/henryhcleung/MyObservatory/Tests/Task1/AOS/features```
+   2. ```Behave```
+
+## Run Task2
+   1. ```cd /Users/henryhcleung/MyObservatory/Tests/Task2```
+   2. ```Behave```

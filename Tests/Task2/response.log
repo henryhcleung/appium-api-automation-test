@@ -1,11 +1,11 @@
-2021-03-26 15:58 DEBUG format 'Request next 9 days weather' -> 'Request next 9 days weather'
-2021-03-26 15:58 DEBUG format 'Send a get request to Hong Kong Observatory api "{url}" language is "{language}"' -> 'Send a get request to Hong Kong Observatory api "(?P<url>.+?)" language is "(?P<language>.+?)"'
-2021-03-26 15:58 DEBUG format 'There will received a 200 response code' -> 'There will received a 200 response code'
-2021-03-26 15:58 DEBUG format 'Extract the relative humidity for the day after tomorrow' -> 'Extract the relative humidity for the day after tomorrow'
-2021-03-26 15:58 DEBUG format 'The Hong Kong Observatory API is ready' -> 'The Hong Kong Observatory API is ready'
-2021-03-26 15:58 DEBUG format 'Send a get request to Hong Kong Observatory api "{url}"' -> 'Send a get request to Hong Kong Observatory api "(?P<url>.+?)"'
-2021-03-26 15:58 DEBUG format 'we will received a 200 response code' -> 'we will received a 200 response code'
-2021-03-26 15:58 INFO 200
-2021-03-26 15:58 INFO 20210329
-2021-03-26 15:58 INFO {'value': 70, 'unit': 'percent'}
-2021-03-26 15:58 INFO {'value': 95, 'unit': 'percent'}
+2021-03-27 19:03 DEBUG format 'Request next 9 days weather' -> 'Request next 9 days weather'
+2021-03-27 19:03 DEBUG format 'Send a get request to Hong Kong Observatory api "{url}" language is "{language}"' -> 'Send a get request to Hong Kong Observatory api "(?P<url>.+?)" language is "(?P<language>.+?)"'
+2021-03-27 19:03 DEBUG format 'There will received a 200 response code' -> 'There will received a 200 response code'
+2021-03-27 19:03 DEBUG format 'Extract the relative humidity for the day after tomorrow' -> 'Extract the relative humidity for the day after tomorrow'
+2021-03-27 19:03 DEBUG format 'The Hong Kong Observatory API is ready' -> 'The Hong Kong Observatory API is ready'
+2021-03-27 19:03 DEBUG format 'Send a get request to Hong Kong Observatory api "{url}"' -> 'Send a get request to Hong Kong Observatory api "(?P<url>.+?)"'
+2021-03-27 19:03 DEBUG format 'we will received a 200 response code' -> 'we will received a 200 response code'
+2021-03-27 19:03 INFO 200
+2021-03-27 19:03 INFO 20210330
+2021-03-27 19:03 INFO {'value': 75, 'unit': 'percent'}
+2021-03-27 19:03 INFO {'value': 95, 'unit': 'percent'}

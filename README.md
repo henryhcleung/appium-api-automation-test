@@ -1,5 +1,5 @@
-# MyObservatory
-This repository is MyObservatory automation test using behave.
+## Bahave_Appium_API
+This repository is automation test using behave and appium for MyObservatory App in UI and API level
 
 ## Setup local environment
    1. ```brew install python```

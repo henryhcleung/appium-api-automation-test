@@ -1,4 +1,4 @@
-## Bahave_Appium_API
+## Appium API Automation Test
 This repository is automation test using behave and appium for MyObservatory app in UI and API level
 
 ## Setup local environment
